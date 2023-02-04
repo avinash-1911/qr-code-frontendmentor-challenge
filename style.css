@@ -1,0 +1,40 @@
+body{
+    background-color:#d5e1ef;
+}
+.container{
+    box-shadow:  5px 5px 20px grey;
+ border-radius: 10px;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin: 150px auto;
+    background-color: white;
+    border: 2px solid white;
+    width: 20%;
+    height: 70vh;
+}
+
+.qr-code {
+    margin: 1em;
+    width: 90%;
+}
+
+.qr-code img{
+    border-radius: 10px;
+}
+
+.heading{
+    font-weight: 700;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%);
+}
+
+.content{
+    color:  hsl(220, 15%, 55%);
+margin: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Outfit', sans-serif
+}
